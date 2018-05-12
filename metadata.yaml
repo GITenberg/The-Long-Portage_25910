@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1256
     wikipedia: http://en.wikipedia.org/wiki/Harold_Edward_Bindloss
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25910#The-Long-Portage
 gutenberg_issued: '2008-06-27'
 gutenberg_type: Text
 identifiers:
